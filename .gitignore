@@ -1,3 +1,6 @@
 .idea/
 out/
-Tibbers.iml
+Tibbers.iml/
+.project/
+.classpath/
+.tibbers.iml/
