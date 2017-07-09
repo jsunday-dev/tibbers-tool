@@ -1,4 +1,4 @@
-package com.moosedev;
+package com.liftmoose;
 
 public class Main {
 
